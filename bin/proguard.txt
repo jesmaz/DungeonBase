@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:14
+-keep class com.github.jesmaz.Classes { <init>(...); }
+
+# view AndroidManifest.xml #generated:7
+-keep class com.github.jesmaz.Dungeonbase { <init>(...); }
+
+# onClick res/layout/main.xml #generated:15
+-keepclassmembers class * { *** viewClasses(...); }
+
