@@ -1,2 +1,6 @@
-/gen/
-/nbandroid/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
